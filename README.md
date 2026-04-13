@@ -111,12 +111,4 @@ gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 gsettings set org.gnome.desktop.interface font-name 'JetBrains Mono Nerd Font 11'
 gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
 ```
-## 📋 Roadmap
-- [ ] Add confirmation boxes to power menu
-- [ ] Create keybinds cheatsheet
-- [ ] Create clipboard manager
-- [ ] Improve status bar coloring logic
-- [ ] Improve notification styling
-- [ ] Improve window and menu animations
-- [ ] Add idle management daemon
-- [ ] Add blur effects to backgrounds
+
