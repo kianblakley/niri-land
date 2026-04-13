@@ -7,7 +7,7 @@
 </h1>
 
 > [!WARNING]
-> This project is now in maintenance mode.
+> This project is now in maintenance mode. No new features will be added.
 
 <p align="center">
    <a href="#-features">Features</a> • 
