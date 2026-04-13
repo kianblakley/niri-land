@@ -1,11 +1,13 @@
-> [!WARNING]
-> This project is in **maintenance mode**. No new features will be added.
+
 
 <h1 align="center">
   <img src="./assets/sparkles.webp" alt="✨" width="33"/>
   Niri Land
   <img src="./assets/sparkles.webp" alt="✨" width="33"/>
 </h1>
+
+> [!WARNING]
+> This project is now in maintenance mode.
 
 <p align="center">
    <a href="#-features">Features</a> • 
