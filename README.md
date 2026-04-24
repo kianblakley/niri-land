@@ -7,7 +7,7 @@
 </h1>
 
 > [!WARNING]
-> This project is now in maintenance mode. No new features will be added. If you are looking for something more up to date, please see my new project [bomb-shell](https://github.com/kianblakley/bomb-shell).
+> This project is now in maintenance mode. No new features will be added. If you are looking for something more up to date, check out my new project [bomb-shell](https://github.com/kianblakley/bomb-shell).
 
 <p align="center">
    <a href="#-features">Features</a> • 
